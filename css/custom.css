@@ -1,0 +1,9 @@
+/*! Place your custom styles here */
+section.devlifts-hero{
+  background-color: #34495e;
+}
+
+.btn--primary, .btn--primary:visited{
+  background: #1bbc9b;
+  border-color: #1bbc9b;
+}
