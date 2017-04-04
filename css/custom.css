@@ -3,7 +3,7 @@ section.devlifts-hero{
   background-color: #34495e;
 }
 
-.btn--primary, .btn--primary:visited{
+.btn--primary, .btn--primary:visited, .btn--primary:hover{
   background: #1bbc9b;
   border-color: #1bbc9b;
 }
