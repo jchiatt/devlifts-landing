@@ -16,3 +16,8 @@ a{
   margin-top: 100px;
   margin-bottom: 100px;
 }
+
+strong.light-and-bold{
+  color: white;
+  font-weight: 800;
+}
