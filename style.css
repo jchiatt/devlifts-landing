@@ -1,0 +1,40 @@
+body {
+    background-color: #34495e;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #fff;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 400;
+}
+
+h1 {
+    font-weight: 400;
+    text-transform: none;
+    margin: 10px;
+}
+
+h2 {
+    margin: 25px 10px;
+    font-weight: 400;
+}
+
+a {
+    color: #1bbc9b;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+}
+
+p {
+    margin: 5px;
+}
