@@ -10,18 +10,16 @@ body {
     height: 100vh;
     color: #fff;
     font-family: sans-serif;
-    text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 400;
 }
 
 img {
-    width: 250px;
+    width: 150px;
 }
 
 h1 {
     font-weight: 400;
-    text-transform: none;
     margin: 20px;
     text-align: center;
     font-size: 1.5em;
@@ -41,6 +39,12 @@ a {
 
 a:hover {
     color: #fff;
+}
+
+p.message {
+    margin: 20px 200px;
+    text-align: center;
+    font-weight: lighter;
 }
 
 p {
